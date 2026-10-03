@@ -1,19 +1,19 @@
 {
   "name": "BejBej",
   "bot-account": {
-    "username": "system",
+    "username": "Flamefrags",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "obsidian.swiftsrv.org",
-    "port": 25565,
+    "ip": "Bjjoostose-wySn.aternos.me",
+    "port": 60997,
     "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 0,:60997
     "y": 100,
     "z": 0
   },
